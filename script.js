@@ -8,6 +8,7 @@ const songs = [
     "Sajna.mp3",
     "Parshawan.mp3",
     "Srivalli.mp3",
+    "Dekhte-Dekhte.mp3",
    
   ];
 
