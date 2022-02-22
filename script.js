@@ -6,7 +6,8 @@ const songs = [
     "Raataan Lambiyan.mp3",
     "Rockabye.mp3",
     "Sajna.mp3",
-    "Parshawan.mp3"
+    "Parshawan.mp3",
+    "Srivalli.mp3",
    
   ];
 
