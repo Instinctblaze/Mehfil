@@ -9,6 +9,7 @@ const songs = [
     "Parshawan.mp3",
     "Srivalli.mp3",
     "Dekhte-Dekhte.mp3",
+    "Tera Mera Viah.mp3",
    
   ];
 
